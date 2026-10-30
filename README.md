@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rishabh-jain-r-j/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:rishu123654@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=rishu123654@gmail.com&amp;su=Opportunity%20for%20Rishabh%20Jain"><img src="https://img.shields.io/badge/rishu123654%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="rishu123654@gmail.com" /></a>
   <img src="https://komarev.com/ghpvc/?username=RISHABHJAIN27&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 </p>
 
@@ -85,5 +85,5 @@ A status-page API on AWS that I turned into a **reliability lab**:
 ---
 
 <p align="center">
-  💬 <b>Hiring for SRE, DevOps or Cloud Operations?</b> I'd love to talk: <a href="https://www.linkedin.com/in/rishabh-jain-r-j/">LinkedIn</a> · <a href="mailto:rishu123654@gmail.com">rishu123654@gmail.com</a>
+  💬 <b>Hiring for SRE, DevOps or Cloud Operations?</b> I'd love to talk: <a href="https://www.linkedin.com/in/rishabh-jain-r-j/">LinkedIn</a> · <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=rishu123654@gmail.com&amp;su=Opportunity%20for%20Rishabh%20Jain">rishu123654@gmail.com</a>
 </p>
