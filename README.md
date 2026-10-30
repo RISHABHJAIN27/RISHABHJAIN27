@@ -16,9 +16,9 @@
 
 ### 🧑‍💻 About me
 
-- 🚨 **5 years** keeping business-critical systems running 24x7: production support, major incident management and SRE at **Tata Consultancy Services**
+- ☁️ Most recently **DevOps Engineer at Beyondsoft** on the **Microsoft Azure Landing Zones (ALZ)** engagement: merged **6 pull requests** across **3 Microsoft ALZ repositories** (Terraform, Bicep, GitHub Actions), root-caused OIDC deployment failures, fixed a bootstrap bug that was blocking customer deployments, and contributed to Microsoft's public docs
+- 🚨 **5 years** keeping business-critical systems running 24x7: production support, major incident management and SRE, including at **Tata Consultancy Services**
 - 🌎 Nearly **3 years onsite in Montevideo, Uruguay** as Major Incident Manager / SRE for Humana (US healthcare): **97%+ SLA compliance**, **MTTR cut by 22%**
-- ☁️ Merged **6 pull requests** into Microsoft's **Azure Landing Zones** repositories (Terraform, Bicep, GitHub Actions)
 - 🎓 **AWS Certified CloudOps Engineer – Associate** · **ITIL v4 Foundation**
 - 📍 Delhi NCR, India · open to remote, hybrid or relocation
 
