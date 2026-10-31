@@ -33,6 +33,8 @@ A status-page API on AWS that I turned into a **reliability lab**:
 - 🧪 **k6 load tests** that gate every pull request, plus **Chaos Toolkit** experiments
 - 🐛 A chaos test caught a **thread-pool starvation bug** that left health checks and alerts blind during a database outage. Found, fixed, documented.
 - 🤖 **AI triage agent** (LangGraph, RAG over runbooks, local Ollama LLM, guardrails, LangFuse, Promptfoo) that turns alerts into status-page incidents
+- ☸️ **Kubernetes**: hardened **Helm** chart (probes, PDB, HPA, non-root) tested on a 3-node **kind** cluster in CI. Deleting a pod under load: **0 failed requests**
+- 🔐 **Security gates**: **Trivy** image and config scans, **Gitleaks** secret scanning over full git history
 - 🏗️ Runs on **ECS Fargate**, 30+ AWS resources from **7 Terraform modules**, deployed by **GitHub Actions**
 
 <p align="center">
@@ -53,6 +55,9 @@ A status-page API on AWS that I turned into a **reliability lab**:
 **Containers, CI/CD & OS**
 <p>
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,git,github,linux&theme=dark" alt="Containers and CI/CD" />
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm" />
+  <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aqua&logoColor=white" alt="Trivy" />
+  <img src="https://img.shields.io/badge/Gitleaks-D93025?style=for-the-badge&logo=git&logoColor=white" alt="Gitleaks" />
 </p>
 
 **Observability**
